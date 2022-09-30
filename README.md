@@ -4,9 +4,9 @@
 
 1. Vending sales
 
-2. Predict crimes
+2. Crimes predict (Исследование и прогноз преступности в Башкирии 2013-2022 г. Линейная регрессия, SARIMAX)
 
-3. Predict visits
+3. Visits predict 
 
 4. Metrics
 
